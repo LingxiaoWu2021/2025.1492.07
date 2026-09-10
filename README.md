@@ -13,9 +13,13 @@ Qinghe Sun, Shuaian Wang, and Lingxiao Wu.
 
 ## Cite
 
-The article DOI and the archival repository DOI will be added after formal
-publication. Until then, please cite the associated manuscript and this
-repository using the following BibTeX record.
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
+
+https://doi.org/10.1287/ijoc.2025.1492
+
+https://doi.org/10.1287/ijoc.2025.1492.cd
+
+Below is the BibTex for citing this snapshot of the repository.
 
 ```bibtex
 @misc{Feng2026ROFSP,
@@ -25,7 +29,8 @@ repository using the following BibTeX record.
                Approach for Robust Freight Service Planning on Urban Rail
                Transit Networks},
   year      = {2026},
-  url       = {https://github.com/fengtao818/2025.1492.07},
+  doi       = {10.1287/ijoc.2025.1492.cd}
+  url       = {https://github.com/INFORMSJoC/2025.1492},
   note      = {Computational replication package},
 }
 ```
